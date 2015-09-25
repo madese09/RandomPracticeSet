@@ -1,0 +1,10 @@
+# generated files
+bin/
+.settings/
+
+# Eclipse project files
+.classpath
+.project
+*.class
+*.class
+.classpath
